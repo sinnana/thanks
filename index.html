@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+
+    <meta name="viewport"
+          content="viewport-fit=cover,width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
+    <meta charset="utf-8">
+    <meta name="robots" content="noindex">
+    <meta name="googlebot" content="noindex">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="description" content="">
+    <!-- OG INFORMATION -->
+    <meta property="og:title" content="박석범 ♥ 장세희의 감사장">
+    <meta property="og:url" content="https://saybeom.github.io/thanks">
+    <meta property="og:description" content="특별한 날, 소중한 시간을\n함께해주셔서 감사드립니다.">
+    <meta property="og:image" content="./img/main/39.jpg">
+    <meta property="og:image:type" content="image/jpeg">
+    <meta property="og:image:width" content="800">
+    <meta property="og:image:height" content="400">
+    <meta property="og:type" content="website">
+
+    <link rel="icon" href="img/icon/saybeom_favicon.ico">
+    <title id="txt-title"></title>
+
+    <!-- Font Awesome-->
+    <link rel="stylesheet" href="font/font-awesome/css/font-awesome.min.css" type="text/css">
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="plugin/bootstrap/css/bootstrap.min.css" type="text/css" media="screen">
+    <!-- Animate -->
+    <link rel="stylesheet" href="plugin/animate/animate.min.css" type="text/css">
+    <!-- Owl Carousel -->
+    <link rel="stylesheet" href="plugin/owlcarousel/css/owl.carousel.min.css" type="text/css">
+    <link rel="stylesheet" href="plugin/owlcarousel/css/owl.theme.default.min.css" type="text/css">
+
+    <!-- Custom -->
+    <link rel="stylesheet" href="css/common.css" type="text/css">
+
+    <!-- jQuery -->
+    <script src="plugin/jquery/jquery-3.7.1.min.js"></script>
+    <!-- Bootstrap -->
+    <script src="plugin/bootstrap/js/bootstrap.min.js"></script>
+    <!-- Owl Carousel -->
+    <script src="plugin/owlcarousel/js/owl.carousel.min.js"></script>
+    <!-- wow -->
+    <script src="plugin/wow/wow.min.js"></script>
+
+    <!-- kakao -->
+    <script src="https://t1.kakaocdn.net/kakao_js_sdk/2.7.1/kakao.min.js"
+            integrity="sha384-kDljxUXHaJ9xAb2AzRd59KxjrFjzHa5TAoFQ6GbYTCAG0bjM55XohjjDT7tDDC01" crossorigin="anonymous"></script>
+    <script>
+        try {
+            Kakao.init('41a0faa219c1644f6d89dd5f4f49439e');
+            Kakao.isInitialized();
+        } catch (e) {
+            console.log(e);
+        };
+    </script>
+    <!-- Custom -->
+    <script src="js/common.js"></script>
+
+</head>
+
+<body oncontextmenu="return false" ondragstart="return false" onselectstart="return false"
+      style="touch-action: pan-y;"
+      class="no-drag text-center container">
+
+<!-- 첫사진 -->
+<section class="d-flex w-100 p-3 mx-auto flex-column main-img cover-container">
+    <h1 class="wow animate__animated animate__fadeInUp text-black">
+        <div class="main-info"></div>
+    </h1>
+</section>
+
+<!-- 감사문구 -->
+<section class="mt-5 mb-5">
+    <div class="mb-5 wow animate__animated animate__fadeInUp">
+        <h6 class="sub-title">THANK YOU</h6>
+        <h3 class="main-title">진심으로 감사드립니다.</h3>
+    </div>
+    <div class="mb-5 wow animate__animated animate__fadeInUp">
+        <div id="txt-greeting" class="greeting-container"></div>
+    </div>
+    <h5 class="name-container">
+        <span id="mode-from"></span>
+        <span class="relation">올림</span>
+    </h5>
+</section>
+<!-- 공유 -->
+<section>
+    <div class="mb-4 mt-4 wow animate__animated animate__fadeInUp">
+        <div>
+            <i class="fa fa-comment mr-5"></i>
+            <a class="link-btn" href="javascript:kakaoShare()">
+                카카오톡 공유하기
+            </a>
+        </div>
+        <div>
+            <i class="fa fa-link fa-rotate-90 mr-5"></i>
+            <a class="link-btn" onclick="copyLink()">
+                링크주소 복사하기
+            </a>
+        </div>
+    </div>
+</section>
+</body>
+
+<footer class="no-drag text-center copyright">
+    <p>Copyright 2024. <span class="copyright-saybeom">Saybeom</span>. All rights reserved.</p>
+</footer>
+</html>
+
