@@ -50,14 +50,14 @@ a, a:hover, a:active, a:focus {
     white-space: pre-line;
 }
 .name-container{
-    display: ruby;
+    /*display: flex;*/
     /*align-items: baseline;*/
     /*justify-content: center;*/
     margin-bottom: 20px;
 }
 .name-block{
-    display: flex;
-    flex-direction: column;
+    display: inline-block;
+    /*flex-direction: column;*/
     width: 65px;
 }
 .mw-50{
