@@ -1,34 +1,34 @@
 window.basic = {
-    "title": "박석범 ♥ 장세희 감사장",
+    "title": "신주영 ♥ 박해나 감사장",
     "groom": {
-        "name": "박석범",
-        "first_name": "석범",
+        "name": "신주영",
+        "first_name": "주영",
         "parents": {
             "father": {
-                "name": "박영조"
+                "name": "신백만"
             },
             "mother": {
-                "name": "오계자"
+                "name": "박근원"
             }
         }
     },
     "bride": {
-        "name": "장세희",
-        "first_name": "세희",
+        "name": "박해나",
+        "first_name": "해나",
         "parents": {
             "father": {
-                "name": "장우진"
+                "name": "박효정"
             },
             "mother": {
-                "name": "최연희"
+                "name": "한현숙"
             }
         }
     },
-    "link": "https://saybeom.github.io/thanks",
+    "link": "https://sinnana.github.io/thanks",
     "kakao": {
         "description": "특별한 날, 소중한 시간을\n함께해주셔서 감사드립니다.",
         "button": "모바일 감사장 보기",
-        "img": "https://lh3.googleusercontent.com/fife/ALs6j_G1nJhaEeag_o0DZIDJSl4aMjV1OeEzLC8ScXHXyNuwPb4EFLqnflh3bwTMvJxAVAhzF3ySkii32rw2HUSia-xsRQLG9kUiKySd3sm0mribZetVqu2zkgWYMy-1XYwSZdn863V7fEG5fv-PT_IWC5QprDERJRuHDBr86x9RoWC5XVWWm-qJUtszUXxrYk8Ho-FGDkVfk8JjvI-Fh8BgtTffp9B8xJr1elgxK0nAB6utQxVcFWiGJRG0hVxJPs8f8dBlIcQtZ4rxnklxv5bjmv0JoPekpa_rj6n_uqqTRuaeOgbnD0RA5yyXasojfpGOmDiTQmy0TjFSFlUJvNZSn0amXofI1NaKc5owl13YYh2k5DEo40Vt7960DdRIG95C6qttNK4HG9H5H5TBgcrg9BM5De5ZnhAyrgDfu876cKNSyuW4KWoo-wwS7NFixTCRj88lKwgyKvyUfuRewJ3wW517RjeQc6lQFMDgKBbNTL82RuqYnvaFkOrFAJGIdy-G4DjYZm-9d5In9wPz06G-lCILfUbrN11RJ6M13F_pHUVy-AtYxoxOdzBlMUctXAdY8arjR2T_YLTk0DwPN4XshGUc4DBJyh_c22OrbioGHZeQv8m-NUNeG-PJR4emf0thTJX6r-p_NcPbWXyvmy9APJfQylSRJ_xPpDeOL08DQGsr3INmOk0sZO2NoigBa87XLgISKCdEmlVsQ3a9MmD69oMWQU-M5nF0uLwA4Qf0mYtB_t3DpNlvo3EWacmm0mwyRmmzebk_U5C_JWstOQH2ZdfHuyc651QZulZGt8G_5yaN-RHFAei16WlyYSRUbn-wrUhF8GXyksW1nMK0D82wEKrUqnja2_vkIK-cnyaNVQ_m1_KsMTY31lvPtWOxlC_4zi-pqpZpViwmE-CJiO-trL7cjjckOAx-4wupaCDDy5cJH2ejz6uY_FgB0l8rsvjjppEJJLwc6wf0piHZhccBtFTR_QAVLvM8TVwTEQzucpvR2w9ZqK3UqMdE3KdEsYGdhBzwhhvjzkpvBbpUllcN0Srg6eTbF3qc5YY87kdjL8SISKsnH1og3WIl9ov7lj9BosgTLeAHUxyt4fXwxFqHG0Xx3qDMKnVrN5kYwCBDRSoFyH1iZ1FKX47v3arsxKOa-KJwjdT0Cdkv8KMbUi4cyVYcD0FihPK8fdDB-440Yb1HVSHuax2685vwXWBcKlIYLFmB2WDPluXjR0mI6h83k1toFTWEKnG5Kc0LkvulJwZkrTgqjgM6U3-j3gnHSowq0mK1edhUtpccBv_GJxlodX2Y5w9FhU3Mkb7pd_wzXsHF7KkLopUmtNsydMP7K8NRSPe5ivxDVZll0N8erbZhRSmXnOqtNkxBO42PFjU7MJSCgGfCzX8UZxHGjiRNuM3KXWzFsIuiU5JGNxvnbVbwh6xOo08Xiz8Mc4YLcagrgv4m-0_aWI8zX1Ku3gJFX796J7ve0aeyTsLIvfNDmz-6WVxfqKpINxaLtDpKsPacoNY35z7-9ScKR8c6zJtlsGuuI12E0qsSjycnSPFXXIzs0z55ed6lrTAOqxGNikLAaoY8tlxykyBI9V1M8fLfOWzHYeuY0Js8_Eey9747uI41Qk1LLAkHmpTwVoQdvzpuBIbK_5NkmSL9vXkSWhWpasAnXRC9OHo6U6Q9ItcH7jSmcKaDMpul=w2498-h1596"
+        "img": "https://lh3.googleusercontent.com/fife/ALs6j_HqX5z54llQi4-zDVhfRSI0otsX58MHNG6UPm_XVwEvkCa7rTReEV20vcspNQqq2X2QZSL-fvVxnokVQuu8r3OMPzflHxMCB-bX9VU318GmdUKKejt9gby5qLfe29XB7IkBh5NDVx3A00K49dnRuhG-D0SCTbb7cmLxC2f06cGNJ7dhisIKRcWjAfV0p2YxZNcTv11WjcBZ3RLZU0S3zfdaCp4K9lPXjBxnJNey_q9SHmHRhJdfHHcAShWdhpS39LwHYC0R_O5AETe8Ne1KRndJyUJevAl2hLyoW9-z-q-xFi5w_LZErUWbGBtxQrX-DZkkvMq1RM2czzEHex74lJ4i-ikPX0CCFG_vzVmAbowOk_hnGCvCgXjcXoMOqnjhKqbGSo4Me1hBHC-e0FgmWgJHaWcPYJ8ErBwQRKQYfLPbYYTdLiX6OWnDQhgEvIp033oYwaidpl1v1jTZlbnhxPLgp1dvgUHKo2uw-kcNGYRPa4HwHJwivjOwhzMJ1rYMRU_nxKK5NuMdzw1o8V9zeqlySU7vx5MgK_lX84BcOTuhSseMUuAk8_gPbtNGuMUoAygZ3mlhlK4l2Mk1hhRq4cu8hpG8kGb0wZuGzXdefpNZM2LUACcAsnefCt97DTIyB8CoZQ9KiS13WHJ5LU5BOgT5DfkIbkwJhmCBBsJ_rHSz45t9uGqg57GI_-Gkhcq2Kcv-Jw2lZJJFtvBRGimyQhReh-kRkf37ovFBqPTdlH6SSHqFCXbMYd9KF4ZsFgB-lnXXrQVPRAHGXRwSfWt_7bDN-F_XzyWL6zPSDLd8v96TwO0jvdVoNxe55YmC89131ol7qRzSNfn-T_ULHQWb6fW8aHO_YVNkx2LcRsN9CSBuFUmRaV5BbaOfKCqO9uuXbtqwjjPrIwRF-6KkNKG8H1HNfvSbv8RrieaDjxnY25IXl4YxPF0rkQ9aXr-nLolGMRb9_Nki3F5TFqe566ZQUSmxqei6zBK_hgrADQFbDbhmBkrWcJSnUPoZAws01gMBSib6DQAQUwrTh-LscMi2F3MMlmGNBjZHWWLy1j2ZGmL-bLhv-jUCVgEfZmSX7FrRo1uONrIkGlWjKqltF581SHJ-8KQEjrpgg7lSc5w8zVL2hUDRuA9-Zm0_BTgXgcnUBbIDK--3xWZhfbS3oz8opoSPKe6bUCHyl84bHmN8VISwaPs2eug1sq1-M0rN-CNBrfsv4oLp96z0Kc9ZgPeunx02i0CASZMYLsxUkmcOvHStGRlbqJha2ZuoI2QEwCGyiX-ouWqwFJiVGDTN4eIJfuUxNwhb5Z8u3o5n4NUvZxLTiHItQJMXUmdK_CHdyj11GAro5Ylc0JouPFHLQsZ_7N4zbLYielhUL8wQSffqEXWcaQUc9Kg4J2m0f__pNuRaTZ1lPSOmMywpGdxUnFOA_XaJ0hzCkgWcjLMHmhuID2vkGh4aYLCJYLfy7oyRCJX4mUi67yoqyHo-i00RjDwhth8LIDtDrMbn1AvKcuDzKgZcJ_6hhZTUosxuudaMbuN_6A6pfXhPYs4wzZ8x0mMZrTfs3huirosGYTbCZ5tvAU-lQL_Aw-GwSxtsTw5cfR055WKuQ_WNhMeKsPBVHgaH_kbTX1107bGoO4ngwwr097U-cZxWvA2Rjbx_v8RRUqf-5o8edhlv-pqndEFFNQjwiT8Gu-WpQHxfi-dMkFAuCQcPGcXlYIT5THlgoLVkcTjs=w2832-h2484"
     },
     "info": {
         "greeting": "저희 자녀의 결혼식에\n" +
@@ -71,18 +71,19 @@ function setText(){
 
     const urlParams = new URL(location.href).searchParams;
     const mode = urlParams.get('m');
-    if(mode=="p"){
+    if(mode=="s"){
         $("#mode-from").html('<span class="relation mr-5">혼주 </span>\n' +
-            '        <div class="name-block">\n' +
-            '            <div class="txt-groom-father"></div>\n' +
+            '<div style="display: -webkit-inline-box;" class="name-block">\n' +
+            '<img style="width: 14px" src="./img/main/flower.png"></i>'+
+            '                 <div class="txt-groom-father"></div>\n' +
             '        </div>\n' +
             '        <span class="separator">·</span>\n' +
             '        <div class="name-block">\n' +
             '            <div class="txt-groom-mother"></div>\n' +
             '        </div>');
-        window.basic.link="https://saybeom.github.io/thanks?m=p";
+        window.basic.link="https://sinnana.github.io/thanks?m=j";
         $('#txt-greeting').html(window.basic.info.greeting);
-    }else if(mode=="j") {
+    }else if(mode=="p") {
         $("#mode-from").html('<span class="relation mr-5">혼주 </span>\n' +
             '        <span class="name-block">\n' +
             '            <span class="txt-bride-father"></span>\n' +
@@ -91,7 +92,7 @@ function setText(){
             '        <span class="name-block">\n' +
             '            <span class="txt-bride-mother"></span>\n' +
             '        </span>');
-        window.basic.link="https://saybeom.github.io/thanks?m=j";
+        window.basic.link="https://hyunirini.github.io/thanks?m=s";
         $('#txt-greeting').html(window.basic.info.greeting);
     }else{
         $("#mode-from").html('<span class="relation">신랑 </span>\n' +
@@ -145,7 +146,7 @@ function copyLink(){
 
     let url = window.document.location.href;
     copyToClipboard(url);
-    alert('석범♥세희 감사장 주소가 복사되었습니다.');
+    alert('주영♥해나 감사장 주소가 복사되었습니다.');
 }
 
 function copyToClipboard(val) {
