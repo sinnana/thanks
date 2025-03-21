@@ -81,7 +81,7 @@ function setText(){
             '        <div class="name-block">\n' +
             '            <div class="txt-groom-mother"></div>\n' +
             '        </div>');
-        window.basic.link="https://sinnana.github.io/thanks?m=j";
+        window.basic.link="https://sinnana.github.io/thanks?m=s";
         $('#txt-greeting').html(window.basic.info.greeting);
     }else if(mode=="p") {
         $("#mode-from").html('<span class="relation mr-5">혼주 </span>\n' +
@@ -92,7 +92,7 @@ function setText(){
             '        <span class="name-block">\n' +
             '            <span class="txt-bride-mother"></span>\n' +
             '        </span>');
-        window.basic.link="https://hyunirini.github.io/thanks?m=s";
+        window.basic.link="https://sinnana.github.io/thanks?m=p";
         $('#txt-greeting').html(window.basic.info.greeting);
     }else{
         $("#mode-from").html('<span class="relation">신랑 </span>\n' +
